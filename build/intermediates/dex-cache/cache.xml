@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/codepath-utils-08bd4bd32045a90c2080ad8dc9f997b7a343f1a1.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f83ce83e62cbda406ef57c9e175277188ee88986">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/classes-6e7c32276abf4e8bfc342b03b0122ea6a6e4ed38.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/libs/picasso-2.3.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b646ddbdac8a33fc45b64564011da81d23e4635">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/picasso-2.3.4-2b93646d76590d73da4b8a531cc043055a807209.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/libs/android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-831fa2badcc2193affc1e956f98a9a91b04a2325.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/libs/ActiveAndroid-3.1-adcddac4c58.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e550c03ed8bcfe3b9f97d8c5ce6e8ee305f3beed">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-adcddac4c58-c9210eb9bc6c408c06627be4eeeaeaf361fe8c6f.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/libs/codepath-oauth-0.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b90f1c3541987f690e2fb854775914cc23266250">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/codepath-oauth-0.3.0-25a3e69baa51319ea0b7c0055c9d406037afb890.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/commons-io-2.4-fd919ed729661a780f5a624cd4d3eee938892397.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds.rockerhieu-emojicon-2f29472.library.src/main/unspecified/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/android-support-v4-db92a7696b822dc88c496e3dc69f691f7c2a75d0.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="64eed3155cf508394ff4a0ab07aa76145fe09aa5">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/classes-88538fa7a1891a5e7a7844e83e20555ee5c0cd78.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds.rockerhieu-emojicon-2f29472.library.src/main/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4796ff3db2d92dce25d4d6acaea94f2d8917809f">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/classes-adecc92482730c736d867dfd2c4764bacd262e0f.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/libs/Parse-1.7.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="403b8fa0a90f1ff714ad1f40382e7a448ed4f25b">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/Parse-1.7.0-66bd79e46f83e46b9d5da86406c7d3436d82af82.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/google-play-services-35058a60eeea4527cf6e7e9ed2aebd2080dcdcbc.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/libs/universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-4225721fd6fc34f5889f6c489838a551c0b6105a.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/libs/scribe-codepath.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e0748acc9e7be0695de0d38016d260df52d9167">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/scribe-codepath-f5c643d1cccbe792d33de30e195b3785eae110dc.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/facebook/unspecified/libs/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-4452a45c6b936e503e5697395e61f9064f8cb562.jar" />
+    </item>
+    <item
+        jar="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/facebook/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="082c1a2d535a0dd9f32d542ac44d031b490a7748">
+        <dex dex="/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/pre-dexed/debug/classes-fb46d98ca342b835e59471f2c8ed3e0dd5568b84.jar" />
+    </item>
+
+</items>

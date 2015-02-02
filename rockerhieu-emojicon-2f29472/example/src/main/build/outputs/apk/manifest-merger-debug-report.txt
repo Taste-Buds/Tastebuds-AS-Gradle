@@ -1,0 +1,40 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:18:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:18:11
+	package
+		ADDED from AndroidManifest.xml:19:5
+	android:versionName
+		ADDED from AndroidManifest.xml:21:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:20:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:23:5
+MERGED from tastebuds.rockerhieu-emojicon-2f29472.library.src:main:unspecified:5:5
+	android:label
+		ADDED from AndroidManifest.xml:26:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:24:9
+	android:icon
+		ADDED from AndroidManifest.xml:25:9
+	android:theme
+		ADDED from AndroidManifest.xml:27:9
+activity#com.rockerhieu.emojicon.example.MainActivity
+ADDED from AndroidManifest.xml:28:9
+	android:label
+		ADDED from AndroidManifest.xml:30:13
+	android:name
+		ADDED from AndroidManifest.xml:29:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:31:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:32:17
+	android:name
+		ADDED from AndroidManifest.xml:32:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:34:17
+	android:name
+		ADDED from AndroidManifest.xml:34:27

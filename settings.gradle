@@ -1,0 +1,5 @@
+include ':rockerhieu-emojicon-2f29472:library:src:main'
+include ':tastebuds'
+include ':facebook'
+include ':google-play-services_lib'
+include ':actionbarsherlock'

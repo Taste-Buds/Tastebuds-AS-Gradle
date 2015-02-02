@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/rockerhieu-emojicon-2f29472/example/src/main/build/intermediates/exploded-aar/tastebuds.rockerhieu-emojicon-2f29472.library.src/main/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="horizontal_divider">#8f8f8f</color>
+    <color name="horizontal_vertical">#8f8f8f</color>
+    <declare-styleable name="Emojicon"><attr format="dimension" name="emojiconSize"/><attr format="integer" name="emojiconTextStart"/><attr format="integer" name="emojiconTextLength"/><attr format="boolean" name="emojiconUseSystemDefault"/></declare-styleable>
+    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/rockerhieu-emojicon-2f29472/example/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Emojicon Example</string>
+    <string name="hint">Type emoji here</string>
+    <string name="i_love_emojicon">I \ue32d emojicon</string>
+    <string name="use_system_default">Use system default emojicon</string>
+    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/rockerhieu-emojicon-2f29472/example/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

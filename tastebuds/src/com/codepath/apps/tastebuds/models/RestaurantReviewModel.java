@@ -28,7 +28,7 @@ public class RestaurantReviewModel {
         super();
         this.objectId = restaurantReview.getObjectId();
         this.comment = restaurantReview.getText();
-        //this.owner = UserModel(User user);
+        //this.owner = UserModel(restaurantReview.getUser());
         this.placesId = restaurantReview.getGooglePlacesId();
         this.rating = restaurantReview.getRating();
         //this.tags = TagModel.TagsFromPointers(restaurantReview.getTags());

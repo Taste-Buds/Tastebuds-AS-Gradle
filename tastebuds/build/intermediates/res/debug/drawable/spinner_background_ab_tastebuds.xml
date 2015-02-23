@@ -26,4 +26,4 @@
         android:drawable="@drawable/spinner_ab_focused_tastebuds" />
     <item android:drawable="@drawable/spinner_ab_default_tastebuds" />
 </selector>
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/drawable/spinner_background_ab_tastebuds.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/drawable/spinner_background_ab_tastebuds.xml -->

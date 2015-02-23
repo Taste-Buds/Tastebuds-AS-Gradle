@@ -25,4 +25,4 @@
     android:numColumns="auto_fit"
     android:scrollbars="vertical"
     android:verticalSpacing="0dip" />
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/rockerhieu-emojicon-2f29472/library/src/main/res/layout/emojicon_grid.xml --><!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds.rockerhieu-emojicon-2f29472.library.src/main/unspecified/res/layout/emojicon_grid.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/rockerhieu-emojicon-2f29472/library/src/main/res/layout/emojicon_grid.xml --><!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle.rockerhieu-emojicon-2f29472.library.src/main/unspecified/res/layout/emojicon_grid.xml -->

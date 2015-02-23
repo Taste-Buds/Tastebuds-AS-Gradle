@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/strings.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/strings.xml -->
     <eat-comment/>
     <array name="nav_drawer_icons">
 	    <item>@drawable/ic_home</item>
@@ -12,7 +12,7 @@
 	    <item>Profile</item>
 		<item>Logout</item>
 	</string-array>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference|color" name="background"/>
     <attr format="reference|color" name="backgroundSplit"/>
@@ -32,7 +32,7 @@
     <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
     <color name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</color>
     <color name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</color>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/facebook/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/facebook/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="com_facebook_blue">#3B5998</color>
     <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
@@ -45,7 +45,7 @@
     <color name="com_facebook_usersettingsfragment_connected_shadow_color">#000000</color>
     <color name="com_facebook_usersettingsfragment_connected_text_color">#FFFFFF</color>
     <color name="com_facebook_usersettingsfragment_not_connected_text_color">#A6AED7</color>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_signin_btn_dark_text_default">@android:color/white</color>
@@ -57,21 +57,21 @@
     <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
     <color name="common_signin_btn_light_text_focused">#FF737373</color>
     <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/color.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/color.xml -->
     <eat-comment/>
     <color name="counter_text_bg">#626262</color>
     <color name="counter_text_color">#c5c4c4</color>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds.rockerhieu-emojicon-2f29472.library.src/main/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle.rockerhieu-emojicon-2f29472.library.src/main/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="horizontal_divider">#8f8f8f</color>
     <color name="horizontal_vertical">#8f8f8f</color>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/color.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/color.xml -->
     <eat-comment/>
     <color name="list_background">#303030</color>
     <color name="list_background_pressed">#ff9933</color>
     <color name="list_divider">#272727</color>
     <color name="list_item_title">#fff</color>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
     <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
@@ -109,7 +109,7 @@
     <declare-styleable name="com_facebook_picker_fragment"><attr format="boolean" name="show_pictures"/><attr format="string" name="extra_fields"/><attr format="boolean" name="show_title_bar"/><attr format="string" name="title_text"/><attr format="string" name="done_button_text"/><attr format="reference" name="title_bar_background"/><attr format="reference" name="done_button_background"/></declare-styleable>
     <declare-styleable name="com_facebook_place_picker_fragment"><attr format="integer" name="radius_in_meters"/><attr format="integer" name="results_limit"/><attr format="string" name="search_text"/><attr format="boolean" name="show_search_box"/></declare-styleable>
     <declare-styleable name="com_facebook_profile_picture_view"><attr name="preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="is_cropped"/></declare-styleable>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abs__action_bar_default_height">48dip</dimen>
     <dimen name="abs__action_bar_icon_vertical_padding">8dip</dimen>
@@ -124,11 +124,11 @@
     <dimen name="abs__dropdownitem_text_padding_right">8dip</dimen>
     <dimen name="abs__search_view_preferred_width">320dip</dimen>
     <dimen name="abs__search_view_text_min_width">160dip</dimen>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/dimens.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/facebook/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/facebook/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="com_facebook_likeboxcountview_border_radius">3dp</dimen>
     <dimen name="com_facebook_likeboxcountview_border_width">1dp</dimen>
@@ -158,16 +158,16 @@
     <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
     <dimen name="com_facebook_usersettingsfragment_profile_picture_height">64dp</dimen>
     <dimen name="com_facebook_usersettingsfragment_profile_picture_width">64dp</dimen>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/dimens.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="edge_margin">8dp</dimen>
     <dimen name="element_bottom_margin">8dp</dimen>
     <dimen name="element_side_margin">8dp</dimen>
     <dimen name="element_top_margin">8dp</dimen>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/facebook/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/facebook/unspecified/res/values/values.xml -->
     <eat-comment/>
     <drawable name="com_facebook_picker_default_separator_color">#33464c59</drawable>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="abs__action_menu_divider" type="id"/>
     <item name="abs__action_menu_presenter" type="id"/>
@@ -176,13 +176,13 @@
     <item name="abs__progress_horizontal" type="id"/>
     <item name="abs__up" type="id"/>
     <integer name="abs__max_action_buttons">2</integer>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/res/values/values.xml -->
     <eat-comment/>
     <integer name="google_play_services_version">6111000</integer>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/strings.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/strings.xml -->
     <eat-comment/>
     <string name="FriendsRating">FRIENDS RATING</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="abs__action_bar_home_description">Navigate home</string>
     <string name="abs__action_bar_up_description">Navigate up</string>
@@ -197,10 +197,10 @@
     <string name="abs__searchview_description_voice">Voice search</string>
     <string name="abs__shareactionprovider_share_with">Share with</string>
     <string name="abs__shareactionprovider_share_with_application">Share with <ns1:g example="Bluetooth" id="application_name">%s</ns1:g></string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="accept">Accept</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/strings.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_logout_setting">Logout</string>
     <string name="action_profile_button">User Profile</string>
@@ -210,7 +210,7 @@
     <string name="address">ADDRESS</string>
     <string name="app_name">Tastebuds</string>
     <string name="back_button_desc">back</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/facebook/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/facebook/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="com_facebook_choose_friends">Choose Friends</string>
     <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
@@ -240,7 +240,7 @@
     <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
     <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
     <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
     <string name="common_android_wear_update_text">This app won\'t run unless you update the Android Wear app.</string>
@@ -270,16 +270,16 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/strings.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/strings.xml -->
     <eat-comment/>
     <string name="compose_dish_review_hint">Taste the dish</string>
     <string name="compose_review_hint">Taste the restaurant</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="decline">Decline</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/strings.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/strings.xml -->
     <eat-comment/>
     <string name="desc_list_item_icon">Item Icon</string>
     <string name="dish_label">Dish:</string>
@@ -299,11 +299,11 @@
     <string name="review_text">Review1</string>
     <string name="review_user_desc">Review User</string>
     <string name="status">STATUS</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/strings.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/strings.xml -->
     <eat-comment/>
     <string name="tags_text">Tags:</string>
     <string name="taste_text">Taste</string>
@@ -318,13 +318,13 @@
     <string name="title_activity_user_detail">User Details</string>
     <string name="title_facebook_login">Login to Facebook </string>
     <string name="user_name_text">Username</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/strings.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/strings.xml -->
     <eat-comment/>
     <string name="website">WEBSITE</string>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/styles.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/styles.xml -->
     <eat-comment/>
     <style name="ActionBar.Solid.Tastebuds" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
         <item name="android:background">@drawable/ab_solid_tastebuds</item>
@@ -342,7 +342,7 @@
     <style name="ActionButton.CloseMode.Tastebuds" parent="@android:style/Widget.Holo.Light.ActionButton.CloseMode">
         <item name="android:background">@drawable/btn_cab_done_tastebuds</item>
     </style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/styles-old.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/styles-old.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
@@ -356,7 +356,7 @@
         <item name="android:textViewStyle">@style/Widget.TextView.Custom</item>
         <item name="android:actionBarTabTextStyle">@style/MyTheme.ActionBar.TabText</item-->
     </style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/styles.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/styles.xml -->
     <eat-comment/>
     <style name="DropDownListView.Tastebuds" parent="@android:style/Widget.Holo.Light.ListView.DropDown">
         <item name="android:listSelector">@drawable/selectable_background_tastebuds</item>
@@ -366,7 +366,7 @@
         <item name="android:popupBackground">@drawable/menu_dropdown_panel_tastebuds</item>
         <item name="android:dropDownSelector">@drawable/selectable_background_tastebuds</item>
     </style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/styles-old.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/styles-old.xml -->
     <eat-comment/>
     <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
 	        <item name="android:background">#ff9933</item>
@@ -374,7 +374,7 @@
     <style name="MyTheme.ActionBar.TabText" parent="android:style/Widget.Holo.ActionBar.TabText">
 	    	    <item name="android:textColor">#de000000</item>
 	</style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/styles.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/styles.xml -->
     <eat-comment/>
     <style name="PopupMenu.Tastebuds" parent="@android:style/Widget.Holo.Light.ListPopupWindow">
         <item name="android:popupBackground">@drawable/menu_dropdown_panel_tastebuds</item>	
@@ -382,7 +382,7 @@
     <style name="ProgressBar.Tastebuds" parent="@android:style/Widget.Holo.Light.ProgressBar.Horizontal">
         <item name="android:progressDrawable">@drawable/progress_horizontal_tastebuds</item>
     </style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Sherlock.__TextAppearance.Small" parent="Widget">
       <item name="android:textSize">14sp</item>
@@ -539,7 +539,7 @@
         <item name="android:textSize">16sp</item>
         <item name="android:textStyle">normal</item>
     </style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.IAPTheme" parent="android:Theme">
     <item name="android:windowIsTranslucent">true</item>
@@ -549,7 +549,7 @@
     <item name="android:windowIsFloating">true</item>
     <item name="android:backgroundDimEnabled">false</item>
   </style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.Sherlock" parent="Sherlock.__Theme">
         <!-- Action bar styles (from Theme.Holo) -->
@@ -743,7 +743,7 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/styles.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/styles.xml -->
     <eat-comment/>
     <style name="Theme.Tastebuds" parent="@android:style/Theme.Holo.Light">
         <item name="android:actionBarItemBackground">@drawable/selectable_background_tastebuds</item>
@@ -762,7 +762,7 @@
         <item name="android:popupMenuStyle">@style/PopupMenu.Tastebuds</item>
         <item name="android:dropDownListViewStyle">@style/DropDownListView.Tastebuds</item>
     </style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/google-play-services_lib/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="WalletFragmentDefaultButtonTextAppearance">
         <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
@@ -796,7 +796,7 @@
         <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
         <item name="maskedWalletDetailsLogoImageType">classic</item>
     </style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget">
     </style>
@@ -1015,12 +1015,12 @@
         <item name="android:paddingLeft">8dp</item>
         <item name="android:paddingRight">8dp</item>
     </style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/values/styles-old.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/values/styles-old.xml -->
     <eat-comment/>
     <style name="Widget.TextView.Custom" parent="android:Widget.TextView">
  	        <item name="android:textColor">#de000000</item>
  	    </style>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/facebook/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/facebook/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="com_facebook_loginview_default_style" parent="@android:style/Widget.Button">
         <item name="android:layout_width">wrap_content</item>

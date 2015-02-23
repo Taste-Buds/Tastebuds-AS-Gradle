@@ -13,9 +13,9 @@ ADDED from AndroidManifest.xml:2:1
 		INJECTED from AndroidManifest.xml:0:0
 uses-sdk
 ADDED from AndroidManifest.xml:7:5
-MERGED from tastebuds:actionbarsherlock:unspecified:7:5
-MERGED from tastebuds:google-play-services_lib:unspecified:23:5
-MERGED from tastebuds:facebook:unspecified:20:5
+MERGED from Tastebuds-AS-Gradle:actionbarsherlock:unspecified:7:5
+MERGED from Tastebuds-AS-Gradle:google-play-services_lib:unspecified:23:5
+MERGED from Tastebuds-AS-Gradle:facebook:unspecified:20:5
 	android:targetSdkVersion
 		ADDED from AndroidManifest.xml:9:9
 	android:minSdkVersion
@@ -46,10 +46,10 @@ ADDED from AndroidManifest.xml:19:5
 		ADDED from AndroidManifest.xml:19:22
 application
 ADDED from AndroidManifest.xml:21:5
-MERGED from tastebuds:actionbarsherlock:unspecified:11:5
-MERGED from tastebuds:google-play-services_lib:unspecified:25:5
-MERGED from tastebuds:facebook:unspecified:22:5
-MERGED from tastebuds.rockerhieu-emojicon-2f29472.library.src:main:unspecified:5:5
+MERGED from Tastebuds-AS-Gradle:actionbarsherlock:unspecified:11:5
+MERGED from Tastebuds-AS-Gradle:google-play-services_lib:unspecified:25:5
+MERGED from Tastebuds-AS-Gradle:facebook:unspecified:22:5
+MERGED from Tastebuds-AS-Gradle.rockerhieu-emojicon-2f29472.library.src:main:unspecified:5:5
 	android:label
 		ADDED from AndroidManifest.xml:25:9
 	android:allowBackup

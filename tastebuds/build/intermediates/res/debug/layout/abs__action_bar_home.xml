@@ -36,4 +36,4 @@
                android:adjustViewBounds="true"
                android:scaleType="fitCenter" />
 </view>
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/actionbarsherlock/res/layout/abs__action_bar_home.xml --><!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/layout/abs__action_bar_home.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/actionbarsherlock/res/layout/abs__action_bar_home.xml --><!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/layout/abs__action_bar_home.xml -->

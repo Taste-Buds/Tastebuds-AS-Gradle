@@ -38,4 +38,4 @@
               android:textAllCaps="true"
               android:text="@string/abs__action_mode_done" />
 </com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout>
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/actionbarsherlock/res/layout-large/abs__action_mode_close_item.xml --><!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/layout-large-v4/abs__action_mode_close_item.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/actionbarsherlock/res/layout-large/abs__action_mode_close_item.xml --><!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/layout-large-v4/abs__action_mode_close_item.xml -->

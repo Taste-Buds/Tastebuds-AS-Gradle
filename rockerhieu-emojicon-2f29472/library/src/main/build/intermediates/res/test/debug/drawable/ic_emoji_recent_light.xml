@@ -30,4 +30,4 @@
         android:drawable="@drawable/ic_emoji_recent_light_activated" />
     <item android:drawable="@drawable/ic_emoji_recent_light_normal" />
 </selector>
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/rockerhieu-emojicon-2f29472/library/src/main/res/drawable/ic_emoji_recent_light.xml --><!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/rockerhieu-emojicon-2f29472/library/src/main/build/intermediates/bundles/debug/res/drawable/ic_emoji_recent_light.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/rockerhieu-emojicon-2f29472/library/src/main/res/drawable/ic_emoji_recent_light.xml --><!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/rockerhieu-emojicon-2f29472/library/src/main/build/intermediates/bundles/debug/res/drawable/ic_emoji_recent_light.xml -->

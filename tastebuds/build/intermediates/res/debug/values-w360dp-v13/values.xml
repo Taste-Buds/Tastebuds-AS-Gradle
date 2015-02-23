@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/values-w360dp-v13/values.xml -->
+    <!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/values-w360dp-v13/values.xml -->
     <eat-comment/>
     <integer name="abs__max_action_buttons">3</integer>
 </resources>

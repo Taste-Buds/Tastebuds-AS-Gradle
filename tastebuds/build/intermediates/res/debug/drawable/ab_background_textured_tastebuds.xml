@@ -18,4 +18,4 @@
 
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@drawable/ab_texture_tile_tastebuds"
-    android:tileMode="repeat" /><!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/drawable/ab_background_textured_tastebuds.xml -->
+    android:tileMode="repeat" /><!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/drawable/ab_background_textured_tastebuds.xml -->

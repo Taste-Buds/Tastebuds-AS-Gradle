@@ -24,4 +24,4 @@
     android:layout_width="match_parent"
     android:layout_height="?attr/dropdownListPreferredItemHeight"
     android:ellipsize="marquee" />
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/actionbarsherlock/res/layout/sherlock_spinner_dropdown_item.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/actionbarsherlock/res/layout/sherlock_spinner_dropdown_item.xml -->

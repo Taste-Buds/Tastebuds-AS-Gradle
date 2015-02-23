@@ -6,4 +6,4 @@
     <item android:drawable="@drawable/list_item_bg_pressed" android:state_activated="true"/>
  
 </selector>
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/drawable/list_selector.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/drawable/list_selector.xml -->

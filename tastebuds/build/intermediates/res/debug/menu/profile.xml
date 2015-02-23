@@ -7,4 +7,4 @@
         android:showAsAction="ifRoom"
         android:actionLayout="@layout/action_image_button" />
 </menu>
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/menu/profile.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/menu/profile.xml -->

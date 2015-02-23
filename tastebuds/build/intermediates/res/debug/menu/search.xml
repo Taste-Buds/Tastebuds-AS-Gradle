@@ -8,4 +8,4 @@
           android:showAsAction="ifRoom|collapseActionView"
           android:actionLayout="@layout/search_layout" />
 </menu>
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/menu/search.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/menu/search.xml -->

@@ -20,4 +20,4 @@
     <item android:drawable="@drawable/abs__textfield_search_default_holo_dark" />
 </selector>
 
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/actionbarsherlock/res/drawable/abs__textfield_searchview_holo_dark.xml --><!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/drawable/abs__textfield_searchview_holo_dark.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/actionbarsherlock/res/drawable/abs__textfield_searchview_holo_dark.xml --><!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/drawable/abs__textfield_searchview_holo_dark.xml -->

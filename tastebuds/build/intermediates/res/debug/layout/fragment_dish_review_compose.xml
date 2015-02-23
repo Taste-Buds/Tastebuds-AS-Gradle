@@ -140,4 +140,4 @@
         android:layout_alignParentRight="true"
         android:layout_below="@+id/etDishName" />
 
-</RelativeLayout><!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/res/layout/fragment_dish_review_compose.xml -->
+</RelativeLayout><!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/res/layout/fragment_dish_review_compose.xml -->

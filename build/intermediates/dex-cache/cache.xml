@@ -2,123 +2,123 @@
 <items version="2" >
 
     <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/libs/ActiveAndroid-3.1-adcddac4c58.jar"
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="e550c03ed8bcfe3b9f97d8c5ce6e8ee305f3beed">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-adcddac4c58-f18b7290d7e871fdcedd87cc961c77f587194a7c.jar" />
+        sha1="6e174ff9310c608ab3ebac025fa6ffbfd69d6a85">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/classes-00d6f9c254fbb2b06cf74d35b215a887c4b651e5.jar" />
     </item>
     <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/libs/codepath-utils.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/codepath-utils-f802ec8129cc482f3e1e10b4c187929526317ea9.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/libs/picasso-2.3.4.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3b646ddbdac8a33fc45b64564011da81d23e4635">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/picasso-2.3.4-8bb2276228a78052fe298491d50ecfd946002d6f.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/libs/android-async-http-1.4.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-262f271595b36c410faf35c0a8a34ee027b8b68e.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/libs/commons-io-2.4.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/commons-io-2.4-3b8367c5224e35d6c49204305ffe62c9d2862591.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/libs/google-play-services.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/google-play-services-96402a23467ec71cdf48598612dff60c4aeedabf.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/butterknife-6.1.0-ee14ee384cafcd7465f7e8dc1cd88d2f2f009c25.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/libs/codepath-oauth-0.3.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b90f1c3541987f690e2fb854775914cc23266250">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/codepath-oauth-0.3.0-bfc36db0118682aabe44ba584fafe15d928eee87.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle.rockerhieu-emojicon-2f29472.library.src/main/unspecified/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="41a778b317238061bd0528d1c87ce25fe1614aa5">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/classes-c4bbfc7705efbdd948a682dab30dc4a7a945fc33.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/libs/scribe-codepath.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="6e0748acc9e7be0695de0d38016d260df52d9167">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/scribe-codepath-32ac788f388fea0143a42ee516ff2c0c84e22e59.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="41b4b596d56182cdbb554540d68ec62c1cddd833">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/classes-37c0ff23aab9de2584c82ce354e221d3054b0c7e.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/facebook/unspecified/libs/android-support-v4.jar"
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/facebook/unspecified/libs/android-support-v4.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="efec67655f6db90757faa37201efcee2a9ec3507">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/android-support-v4-616ca4f452ace7f1a62f4f1deb9c66f0b50721ef.jar" />
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/android-support-v4-1883fffbe279b2cf4cc7557933ac66155a175707.jar" />
     </item>
     <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/libs/universal-image-loader-1.8.4.jar"
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/facebook/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c2f9bcd14899c9ce59a4ee6a6dea22373f70831">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/classes-81eadaa1dc36b431e9fe84c2dcfe64ad8b6743ab.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/libs/ActiveAndroid-3.1-adcddac4c58.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e550c03ed8bcfe3b9f97d8c5ce6e8ee305f3beed">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-adcddac4c58-c0fecee8e34552d4a14ad96cfb242b97a18f491f.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/google-play-services-90974d3e6e814398821774de5703246019876592.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/commons-io-2.4-0aabaf795d4baa8d852a22ae3dee9921fc0d18ac.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/codepath-utils-f6d4cd94471720743ab4baa86c983591ebfa2c3b.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3591930ab4f05309c9be38d444bad06edb8cf342">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/classes-b7d3246db0d8f33caf14f007f189781d694e14b3.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/libs/codepath-oauth-0.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b90f1c3541987f690e2fb854775914cc23266250">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/codepath-oauth-0.3.0-7bc62aef136c0abce298093921451e705331da77.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle.rockerhieu-emojicon-2f29472.library.src/main/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="22ffe2143cadb441806a724decb1f86d64a414d5">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/classes-d59d7da5c3827ad4ca17dbd549a3901fed062387.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/libs/universal-image-loader-1.8.4.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-01c068b017f9d184912e7b0b4d790ab5e405001d.jar" />
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-3878edfc42c838170a96a48d07a0a2be15fceb9e.jar" />
     </item>
     <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/google-play-services_lib/unspecified/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="646fec4c06f8faa1e4eabe934daf03cde2d9a0a9">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/classes-7a237537aed9be23e4e72408ac7966da338ca6fd.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/facebook/unspecified/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e8c78ac95444c298efd94bcc494bf8f9ec4dbbcd">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/classes-734573a3de2cd0c0f715db26d6875a43b6630f07.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/libs/Parse-1.8.2.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/Parse-1.8.2-1b9468ec54e9a83b9ab1cf8e0506f0ed97c552bf.jar" />
-    </item>
-    <item
-        jar="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/facebook/unspecified/libs/bolts-android-1.1.2.jar"
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/facebook/unspecified/libs/bolts-android-1.1.2.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
-        <dex dex="/Users/pmalviya/AndroidStudioProjects/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-ca79f439ba446c5e474fb8ee6f9d149f25ecbfbb.jar" />
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-756ade5ee67327437f708c0a99491277d4229cee.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/libs/picasso-2.3.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b646ddbdac8a33fc45b64564011da81d23e4635">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/picasso-2.3.4-87790ef90925dade2df93ef1b53b16714fdd237d.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/libs/Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/Parse-1.8.2-b14e7d8d96c9232e785c9c74563fe6ca11b01272.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/libs/android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-de972eaeeb7f972b48d899d9157b0cfbee7be660.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/butterknife-6.1.0-5b520b288b26866a324cad3cecaa9ca82bc7c4e4.jar" />
+    </item>
+    <item
+        jar="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/libs/scribe-codepath.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e0748acc9e7be0695de0d38016d260df52d9167">
+        <dex dex="/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/pre-dexed/debug/scribe-codepath-b5ea1fad0aa2e7ae89348c9ab9bbef535b409e28.jar" />
     </item>
 
 </items>

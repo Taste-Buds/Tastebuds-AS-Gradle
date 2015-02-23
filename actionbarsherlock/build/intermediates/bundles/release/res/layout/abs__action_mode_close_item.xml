@@ -29,4 +29,4 @@
                android:scaleType="fitCenter"
                android:src="?attr/actionModeCloseDrawable" />
 </com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout>
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/actionbarsherlock/res/layout/abs__action_mode_close_item.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/actionbarsherlock/res/layout/abs__action_mode_close_item.xml -->

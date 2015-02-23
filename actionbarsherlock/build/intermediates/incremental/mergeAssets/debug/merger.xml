@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/sushant/git/tastebuds-git/tastebuds/actionbarsherlock/assets"/></dataSet><dataSet config="debug"><source path="/home/sushant/git/tastebuds-git/tastebuds/actionbarsherlock/build-types/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/shawn/Desktop/Tastebuds-AS-Gradle/actionbarsherlock/assets"/></dataSet><dataSet config="debug"><source path="/Users/shawn/Desktop/Tastebuds-AS-Gradle/actionbarsherlock/build-types/debug/assets"/></dataSet></merger>

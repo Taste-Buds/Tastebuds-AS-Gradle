@@ -19,4 +19,4 @@
     <item android:color="@color/abs__bright_foreground_holo_light"/> <!-- not selected -->
 </selector>
 
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/actionbarsherlock/res/color/abs__primary_text_disable_only_holo_light.xml --><!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/tastebuds/build/intermediates/exploded-aar/tastebuds/actionbarsherlock/unspecified/res/color/abs__primary_text_disable_only_holo_light.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/actionbarsherlock/res/color/abs__primary_text_disable_only_holo_light.xml --><!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/tastebuds/build/intermediates/exploded-aar/Tastebuds-AS-Gradle/actionbarsherlock/unspecified/res/color/abs__primary_text_disable_only_holo_light.xml -->

@@ -77,4 +77,4 @@
     android:layout_below="@id/emojis_tab"
     android:background="@color/horizontal_divider" />
 </RelativeLayout>
-<!-- From: file:/home/sushant/git/tastebuds-git/tastebuds/rockerhieu-emojicon-2f29472/library/src/main/res/layout/emojicons.xml -->
+<!-- From: file:/Users/shawn/Desktop/Tastebuds-AS-Gradle/rockerhieu-emojicon-2f29472/library/src/main/res/layout/emojicons.xml -->
